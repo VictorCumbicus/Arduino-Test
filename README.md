@@ -1,3 +1,3 @@
 Integrantes:
-Victor Cumbicus
+Victor Cumbicus;
 Kevin Sanchez
