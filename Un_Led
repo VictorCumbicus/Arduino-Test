@@ -1,0 +1,14 @@
+int Led_one=12;
+
+void setup() {
+  // put your setup code here, to run once:
+pinMode (Led_one,OUTPUT);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+digitalWrite (Led_one, HIGH);
+delay (6000);
+digitalWrite (Led_one, LOW);
+delay (3000);
+}
